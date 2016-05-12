@@ -1,0 +1,24 @@
+{
+  "name": "fis-mvc-command-init",
+  "version": "1.0.0",
+  "description": "初始化fis-mvc项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "2.9.21",
+    "findup": "0.1.5",
+    "fis-scaffold-kernel": "~0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fis-mvc/fis-mvc-command-init.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fis-mvc/fis-mvc-command-init/issues"
+  },
+  "homepage": "https://github.com/fis-mvc/fis-mvc-command-init#readme"
+}
